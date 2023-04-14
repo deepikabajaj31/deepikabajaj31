@@ -46,7 +46,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/deepika-bajaj-910511207/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/deepikabajaj31/">
 			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/deepikabajaj31">
 		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
@@ -54,7 +54,7 @@
 			  <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="mailto:deepikabajaj31@gmail.com">
 			  <img src="https://img.icons8.com/doodle/40/000000/gmail-new--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/deepika0702/">
+        <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/deepikabajaj31/">
 			  <img height="38" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"></a>
       </div>
 </p>
