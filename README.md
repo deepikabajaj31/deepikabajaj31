@@ -7,12 +7,11 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-
-- As a web developer, I have a passion for creating visually appealing, functional, and secure web applications.
-- With my expertise in HTML, CSS, JavaScript, Reactjs, Nodejs, expressjs, mongodb, firebase and database technologies, I can develop powerful, high-performance websites and applications.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/11ToLx1-AytEkMcIxM8aoErUTIZQgT4Aq)
+- I'm Currently working as a Software Engineer at Newgen Software Technologies
+- As a software developer, I have a passion for creating visually appealing, functional, and secure web applications.
+- With my expertise in Reactjs, HTML, CSS, JavaScript, Nodejs, Expressjs, mongodb, firebase, C++/Java and database technologies, I can develop powerful, high-performance websites and applications.
+- I’m currently open for an Full time job opportunities, this is [my resume](https://drive.google.com/drive/folders/11ToLx1-AytEkMcIxM8aoErUTIZQgT4Aq)
 - Novice learner in french
 
 <br>
@@ -27,6 +26,7 @@
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+	  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/java.png" alt="java" width="40" height="40"/></a>
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
