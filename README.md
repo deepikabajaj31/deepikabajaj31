@@ -12,7 +12,7 @@
 
 - As a web developer, I have a passion for creating visually appealing, functional, and secure web applications.
 - With my expertise in HTML, CSS, JavaScript, Reactjs, Nodejs, expressjs, mongodb, firebase and database technologies, I can develop powerful, high-performance websites and applications.
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1PTOAsZ1o48ncnqnNIlN1h3K1Mm8T1kqq/view)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/drive/folders/11ToLx1-AytEkMcIxM8aoErUTIZQgT4Aq)
 - Novice learner in french
 
 <br>
