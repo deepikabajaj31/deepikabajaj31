@@ -18,10 +18,27 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## 🚀 Featured project: [Tandem](https://tandem-ide.vercel.app), a cloud IDE with durable AI agents
+
+A browser-based IDE where you and a team of AI agents (**Planner → Agent → Reviewer**) build software together, in the style of AI-assisted coding assessments.
+
+- **Durable agent runs with Temporal:** close the tab or kill the server mid-build, and the run resumes from the last completed step. Commands can wait for your approval, even across restarts.
+- **Claude Code-style checkpoints:** review every change as a diff, and **rewind** code and chat to any message.
+- **A real workspace:** Monaco editor, multiple terminals that survive reloads, live preview, isolated E2B sandboxes.
+- **Assessment mode:** timed challenges, hidden tests, and a report on how much of the code the AI wrote.
+- **Accessibility first:** WCAG AA themes (dark, light, high contrast), full keyboard navigation, axe-checked in CI.
+- **Free-tier stack:** Next.js 16 · TypeScript · Node · socket.io · Temporal · Vercel AI SDK (Gemini / Groq / OpenRouter free models) · E2B · Vercel + Render · Playwright + Vitest CI
+
+<br>
+
+
 
 
   <div> 
   <h3 >Languages and Tools</h3>
+  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
