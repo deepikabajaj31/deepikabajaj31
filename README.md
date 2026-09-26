@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🚀 Featured project: [Tandem](https://tandem-ide.vercel.app), a cloud IDE with durable AI agents
+## 🚀 Featured project: [CloudCode](https://tandem-ide.vercel.app), a cloud IDE with durable AI agents
 
 A browser-based IDE where you and a team of AI agents (**Planner → Agent → Reviewer**) build software together, in the style of AI-assisted coding assessments.
 
